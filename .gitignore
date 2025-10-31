@@ -1,0 +1,36 @@
+.env
+.csv
+.md
+.env.example
+node_modules
+.vscode
+.DS_Store
+npm-debug.log
+.idea
+*.log
+dist
+build
+coverage
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# AWS credentials file
+.aws/credentials
+.aws/config
+# MacOS files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+# Dependency directories
+node_modules/
+jspm_packages/
+dani-file-server_credentials.csv
+dani-file-server_accessKeys.csv
+DESPLIEGUE.md
