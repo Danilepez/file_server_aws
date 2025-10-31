@@ -376,9 +376,10 @@ MIT License - Innovatech Solutions
 ## 👨‍💻 Autor
 
 **Daniel López**  
-Universidad Pontificia Bolivariana  
+Universidad Privada Boliviana
 Aplicaciones con Redes - 2025
 
 ---
 
 **¿Necesitas ayuda?** Abre un issue en GitHub o contacta al equipo de Innovatech.
+
